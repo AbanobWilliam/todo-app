@@ -5,6 +5,10 @@ export const store = writable({
         {
             id: 1,
             name: "Folder One"
+        },
+        {
+            id: 2,
+            name: "Folder Two"
         }
     ],
     Todos: [
